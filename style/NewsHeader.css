@@ -1,0 +1,10 @@
+.newsHeader{background-color: #ff6600; font-size: 10pt; padding: 2px;color: #000;height: 20px;clear: both;overflow: hidden;}
+.newsHeader-Logo{float: left;width: 20px; height: 20px; padding-right: 4px;}
+.newsHeader-Logo img{width: 18px; height: 18px; border: 1px solid #fff;}
+.newsHeader-title{height: 20px;line-height: 20px; vertical-align: middle; float: left;padding-right: 8px;}
+.newsHeader-titleLink{text-decoration: none;font-weight: bold;color: #000;}
+.newsHeader-nav{height: 20px; line-height: 20px;float: left;}
+.newsHeader-navLink{text-decoration: none; color: #000;}
+.newsHeader-navLink:not(:first-child)::before{content: " | "}
+.newsHeader-login{height: 20px; line-height: 20px; padding-right: 8px; float: right;}
+.newsHeader-loginLink{text-decoration: none;color: #000;}

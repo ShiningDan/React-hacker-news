@@ -1,0 +1,10 @@
+.newsItem{background-color: #f6f6ef;padding-top: 6px;}
+.newItem-title{}
+.newItem-titleLink{text-decoration: none; color: #000;font-size: 10pt;}
+.newItem-titleDomain a{text-decoration: none;color: 828282; font-size: 8pt}
+.newItem-titleDomain a:hover{text-decoration: underline;}
+.newsItem-rank{font-size: 10pt;width: 20px;float: left;text-align: center;}
+.newsItem-vote{float: left;margin: 3px 2px 6px 2px;}
+.newsItem-subtext{font-size: 7pt; color: #828282;}
+.newsItem-subtext a{text-decoration: none; color: #828282;}
+.newsItem-subtext a:hover{text-decoration: underline;}
